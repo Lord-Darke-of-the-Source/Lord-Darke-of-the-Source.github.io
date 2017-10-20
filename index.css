@@ -1,0 +1,13 @@
+/*
+    welcome to the cascading style sheet,
+    this is alien speak
+    disregard all of it
+    */
+body { 
+    background-color: rgb(229, 185, 255);
+    Text-align: center;
+}
+h1 {
+    font-family: comic-sans;
+    font-size: 10px;
+}
